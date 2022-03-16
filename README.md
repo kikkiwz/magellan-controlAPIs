@@ -1,1 +1,1 @@
-# controlAPIs
+robot --outputdir ../Report_MagellanCore_ControlAPI_Q3Sprint1_20210824 F1_Control_Thing F2_Control_Things F3_Control_ThingGroup F4_Control_ThingGroups 
